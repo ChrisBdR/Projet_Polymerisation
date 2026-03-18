@@ -18,4 +18,7 @@
   <Project Path="Systeme/Systeme.vcxproj" Id="328f7867-9e20-4a8f-ab27-4e1c4e4d3e1b">
     <Deploy />
   </Project>
+  <Project Path="test crosscompilation/test crosscompilation.vcxproj" Id="78e9f3e1-c2c3-40c1-b245-983ac1cd29a3">
+    <Deploy />
+  </Project>
 </Solution>
