@@ -1,0 +1,21 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM" />
+    <Platform Name="ARM64" />
+  </Configurations>
+  <Project Path="Base_de_Données/Base_de_Données.vcxproj" Id="fd79f30f-b2ab-471e-bc68-dea6ed94c321">
+    <Deploy />
+  </Project>
+  <Project Path="Capteurs_Entrees_Sorties/Capteurs_Entrees_Sorties.vcxproj" Id="5a4c27f9-a6d6-4c38-abdd-3506a8a78ccd">
+    <Deploy />
+  </Project>
+  <Project Path="Projet_Polymérisation/Projet_Polymérisation.vcxproj" Id="1769a41c-3988-491f-a337-27d06a28aedb">
+    <Deploy />
+  </Project>
+  <Project Path="Serveur/Serveur.vcxproj" Id="f1b7921c-6de5-4396-b3f0-83de09bb1a8a">
+    <Deploy />
+  </Project>
+  <Project Path="Systeme/Systeme.vcxproj" Id="328f7867-9e20-4a8f-ab27-4e1c4e4d3e1b">
+    <Deploy />
+  </Project>
+</Solution>
